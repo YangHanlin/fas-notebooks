@@ -2,7 +2,7 @@
 
 本仓库存放有在学习[火灾预警系统](https://fas.coding.net)开发中用到的机器学习等知识时整理出的笔记，以 Jupyter Notebooks 的形式呈现。
 
-> 如果还不熟悉 Jupyter Notebook，建议选择下文中的 `在线运行` 后进入笔记本 `Jupyter Notebook 简介.ipynb` 简单了解一下。
+> 如果还不熟悉 Jupyter Notebook，建议选择下文中的 [`在线运行`](#在线运行) 后进入笔记本 `Jupyter Notebook 简介.ipynb` 简单了解一下。
 
 ## 如何运行
 
