@@ -13,8 +13,18 @@
 在打开笔记本之前，在克隆或下载的本仓库目录下运行以下命令以安装所用到的库（NumPy、Matplotlib 等）：
 
 ```bash
-pip install -r requirements.txt
+conda env create -f conda/environment.yml
 ```
+
+> 1. 应当使用 `conda/environment.yml` 而非 `environment.yml`：后者是为在线运行（Binder，服务器在国外）准备的，它们唯一的区别为 `conda/environment.yml` 使用了国内镜像而 `environment.yml` 使用的是官方源；
+>
+> 2. 如果没有 Anaconda 或认为 Anaconda 安装太慢，可以使用 `pip` 代替，本仓库中也为 `pip` 提供了相应的配置文件。运行以下命令：
+>
+>    ```bash
+>    pip install -r pip/requirements.txt
+>    ```
+>
+>    **`pip` 无法自动安装 PyTorch；安装 PyTorch 需要使用 Anaconda 或手动下载安装包。**
 
 ### 在线运行
 
