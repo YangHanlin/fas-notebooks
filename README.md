@@ -21,3 +21,5 @@ pip install -r requirements.txt
 点击下面的按钮或[此链接](https://mybinder.org/v2/gh/YangHanlin/fas-notebooks/master)可以在线运行本仓库中的 Jupyter Notebooks，使用体验取决于网络环境。
 
 [![使用 Binder 运行](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YangHanlin/fas-notebooks/master)
+
+> **在线查看：**如果只想要预览笔记，无需运行，可以直接在 GitHub 中点击文件名预览，也可以点击[此链接](https://nbviewer.jupyter.org/github/YangHanlin/fas-notebooks/tree/master/)。
