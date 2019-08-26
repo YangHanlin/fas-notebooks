@@ -1,0 +1,6 @@
+name: fas-notebooks
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+dependencies:
+  - numpy
+  - matplotlib
