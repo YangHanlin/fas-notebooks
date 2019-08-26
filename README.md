@@ -22,4 +22,4 @@ pip install -r requirements.txt
 
 [![使用 Binder 运行](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YangHanlin/fas-notebooks/master)
 
-> **在线查看：**如果只想要预览笔记，无需运行，可以直接在 GitHub 中点击文件名预览，也可以点击[此链接](https://nbviewer.jupyter.org/github/YangHanlin/fas-notebooks/tree/master/)。
+> **在线查看：** 如果只想要预览笔记，无需运行，可以直接在 GitHub 中点击文件名预览，也可以点击[此链接](https://nbviewer.jupyter.org/github/YangHanlin/fas-notebooks/tree/master/)。
