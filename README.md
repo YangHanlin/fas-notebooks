@@ -16,7 +16,7 @@
 conda env create -f conda/environment.yml
 ```
 
-> 1. 应当使用 `conda/environment.yml` 而非 `environment.yml`：后者是为在线运行（Binder，服务器在国外）准备的，它们唯一的区别为 `conda/environment.yml` 使用了国内镜像而 `environment.yml` 使用的是官方源；
+> 1. 应当使用 `conda/environment.yml` 而非 `environment.yml`：后者是为在线运行（[Binder](https://mybinder.org/)，服务器在国外）准备的，它们唯一的区别为 `conda/environment.yml` 使用了国内镜像而 `environment.yml` 使用的是官方源；
 >
 > 2. 如果没有 Anaconda 或认为 Anaconda 安装太慢，可以使用 `pip` 代替，本仓库中也为 `pip` 提供了相应的配置文件。运行以下命令：
 >
