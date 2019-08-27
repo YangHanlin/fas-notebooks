@@ -1,0 +1,5 @@
+### Ignore patterns specific to this directory ###
+
+!*.ipynb
+!ex*data*.txt
+!README.md
